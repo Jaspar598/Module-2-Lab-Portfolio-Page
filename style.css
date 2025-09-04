@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+}
+
+.deftext {
+    color: rgb(255, 255, 255);
+}
+
+.nav {
+    color: white;
+    font-size: medium;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+}
+
+.whitediv {
+    background-color: white;
+    color: white;
+}
+
+.deftext2 {
+    color: rgb(255, 255, 255);
+    padding: 20px;
+}
+
+.red {
+    background-color: red;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.black {
+    color: black;
+}
